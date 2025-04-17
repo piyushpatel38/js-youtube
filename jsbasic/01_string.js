@@ -1,1 +1,3 @@
-const new = new
+var a = 1;
+
+console.log(a);
